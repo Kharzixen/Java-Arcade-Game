@@ -13,3 +13,5 @@ A Java application developed in IntelliJ IDEA during my second year of universit
 - **ESC Key**: Press the ESC key to pause the game. Press it again to continue playing.
 
 These controls provide a simple and intuitive way to navigate through the game and interact with the environment. 
+
+![Alt Text](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3lvOGk1dzdxdTNsZjFqcGtmYXI4NW9xcjI4aThwczk0Mm9lZ3ZjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7qzCkkB6eh4rSPC36b/giphy.gif)
